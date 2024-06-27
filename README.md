@@ -1,10 +1,11 @@
-```About me```
+<h2><code>About me</code></h2>
 
-```> Hi, my name is Yoga.```<br/>
-```> I am a computer lover.```<br/>
-```> I like creating interesting projects.```<br/>
-```> I use Javascript / Typescript and C as my programming language.```
+<code>&gt; Hi, my name is Yogykyn / Yoga.</code> <br/>
+<code>&gt; I'm a computer <b>LOVER</b>.</code> <br/>
+<code>&gt; I like creating interesing projects.</code> <br/>
+<code>&gt; I like creating interesing projects.</code> <br/>
 
 <br/>
 
-```418. I'm a teapot```
+<h2><code>Links</code></h2>
+<code><b>Mastodon</b>: <a href="https://mas.to/@yogykyn">@yogykyn@mas.to</a></code>
